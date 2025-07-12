@@ -1,7 +1,16 @@
-<h1 align ="center"> Hey Everyone 👋🏻, I'm Arjun Shukla </h1>
+# 💫 Hi 👋, I'm Arjun Shukla
+**A passionate Computer Science Student || Aspiring Software Engineer || Tech Enthusiast from India**
 
-## 💫 About Me:
-🛠️ I’m currently working on  <br>Exploring the fundamentals of programming and setting up my development environment.<br><br>👯 I’m looking to collaborate on  <br>Beginner-friendly coding projects, hackathons, and open-source contributions.<br><br>🤝 I’m looking for help with  <br>Understanding Data Structures, Algorithms, and how to crack internships early.<br><br>🌱 I’m currently learning  <br>C/C++, Python, Git, and Web Development basics.<br><br>💬 Ask me about  <br>LPU life, starting college in tech, and tips for balancing studies and personal growth.<br><br>⚡ Fun fact  <br>I can write romantic bedtime stories and debug code—sometimes at the same time!
+Email Me 👉 ✉️ **arjunshuklacse@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Exploring the fundamentals of programming
+- 🌱 **I’m currently learning:** B.Tech CSE
+- 👯 **I’m looking to collaborate on:** Beginner-friendly coding projects, hackathons
+- 🤔 **I’m looking for help with:** Understanding Data Structures, Algorithms
+- 💬 **Ask me about:** Collaboration, Starting college in Tech
+- 📫 **How to reach me:** arjunshuklacse@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I can write romantic bedtime stories and debug code—sometimes at the same time
 
 
 ## 🌐 Socials:
@@ -30,4 +39,3 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ArjunShuklaOfficial) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ArjunShuklaOfficial) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ArjunShuklaOfficial) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ArjunShuklaOfficial) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
