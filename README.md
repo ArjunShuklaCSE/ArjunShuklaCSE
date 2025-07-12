@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **arjunshuklacse@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Exploring the fundamentals of programming
-- 🌱 **I’m currently learning:** B.Tech CSE
+- 🌱 **I’m currently learning:** C/C++, Python, Git, and Web Development basics.
 - 👯 **I’m looking to collaborate on:** Beginner-friendly coding projects, hackathons
 - 🤔 **I’m looking for help with:** Understanding Data Structures, Algorithms
 - 💬 **Ask me about:** Collaboration, Starting college in Tech
