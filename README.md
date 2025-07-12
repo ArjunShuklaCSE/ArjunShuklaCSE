@@ -3,30 +3,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Arjun+Shukla;B.Tech+CSE+%40+LPU+%F0%9F%92%BB;Coding+My+Dreams+Into+Reality+%F0%9F%92%A1;Full+Stack+%7C+ML+%7C+Tech+Enthusiast" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm Arjun Shukla</h1>
-<h3 align="center">🚀 B.Tech CSE Student @ LPU | Developer | Dreamer | Doer</h3>
-
+<!-- 🌌 Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Coffee+Into+Code+☕%F0%9F%92%BB;Building+Dreams+with+Tech+&#128176;MERN+%7C+Python+%7C+ML+%7C+CSE+Student" />
+  <img src="assets/banner-img.png" alt="banner" width="900" />
 </p>
+
+---
+
+<h2 align="center">✨ Welcome to my world of code & creativity ✨</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" height="120"/>
+</div>
 
 ---
 
 ### 📘 About Me  
 ```yaml
-name: Arjun Shukla
-status: 💻 B.Tech CSE Student @ LPU (2025–29)
-code_style: Clean ⚡ Minimalist ⚡ Functional
-goal: To become a world-class software developer 🌍
-currently_learning: ["Full Stack Web Dev", "DSA", "Machine Learning"]
-hobbies: ["Gaming 🎮", "Design 🎨", "Storytelling ✍️", "Tech Videos 💡"]
-fun_fact: "I use dark mode in real life 😎"
+Name: Arjun Shukla
+Status: 💻 B.Tech CSE Student @ LPU (2025–29)
+Code_style: Clean ⚡ Minimalist ⚡ Functional
+Goal: To become a world-class software developer 🌍
+Currently_learning: ["Full Stack Web Dev", "DSA", "Machine Learning"]
+Hobbies: ["Gaming 🎮", "Design 🎨", "Storytelling ✍️", "Tech Videos 💡"]
+Fun_fact: "I use dark mode in real life 😎"
 ```
-
-<!-- 🌌 Cosmic Divider -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" alt="cosmic tech"/>
-</p>
 
 ---
 
@@ -77,7 +78,7 @@ fun_fact: "I use dark mode in real life 😎"
 ### 🐍 Snake Eating My Contributions (GitHub Actions)
 
 <p align="center">
-  <img src="https://github.com/ArjunShuklaCSE/ArjunShuklaCSE/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/platane/snk/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -98,11 +99,6 @@ fun_fact: "I use dark mode in real life 😎"
 
 ---
 
-<!-- ASCII Glitch Section -->
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100%" alt="ascii glitch"/>
-</p>
-
 ### 🎯 Currently Working On
 
 - 🔭 Building projects using MERN Stack  
@@ -116,11 +112,10 @@ fun_fact: "I use dark mode in real life 😎"
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<!-- Matrix Ending -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="matrix ending"/>
-</p>
+---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="100"/>
+  <br><br>
   <b>“Let's turn caffeine ☕ into code 💻”</b>
 </div>
