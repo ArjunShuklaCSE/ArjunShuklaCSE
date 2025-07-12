@@ -5,7 +5,7 @@
 
 <!-- 🌌 Hero Banner -->
 <p align="center">
-  <img src="assets/banner-img.png" alt="banner" />
+  <img src="assets/banner-img.png" alt="banner" width="100%" height="auto" />
 </p>
 
 ---
