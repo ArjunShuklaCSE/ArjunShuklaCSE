@@ -5,7 +5,7 @@
 
 <!-- 🌌 Hero Banner -->
 <p align="center">
-  <img src="https://github.com/ArjunShuklaCSE/ArjunShuklaCSE/assets/banner.png" alt="banner" />
+  <img src="https://github.com/ArjunShuklaCSE/ArjunShuklaCSE/assets/banner-img.png" alt="banner" />
 </p>
 
 ---
