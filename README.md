@@ -78,7 +78,7 @@ fun_fact: "I use dark mode in real life 😎"
 ### 🐍 Snake Eating My Contributions (GitHub Actions)
 
 <p align="center">
-  <img src="https://github.com/platane/snk/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/platane/snk/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
