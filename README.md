@@ -1,6 +1,6 @@
-<!-- 🔥 Full-width Header GIF -->
+<!-- ✨ Header Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="welcome gif"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Arjun+Shukla;B.Tech+CSE+%40+LPU+%F0%9F%92%BB;Coding+My+Dreams+Into+Reality+%F0%9F%92%A1;Full+Stack+%7C+ML+%7C+Tech+Enthusiast" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Arjun Shukla</h1>
