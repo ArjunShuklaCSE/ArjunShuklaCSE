@@ -1,4 +1,5 @@
 <h1 align ="center"> Hey Everyone 👋🏻, I'm Arjun Shukla </h1>
+
 ## 💫 About Me:
 🛠️ I’m currently working on  <br>Exploring the fundamentals of programming and setting up my development environment.<br><br>👯 I’m looking to collaborate on  <br>Beginner-friendly coding projects, hackathons, and open-source contributions.<br><br>🤝 I’m looking for help with  <br>Understanding Data Structures, Algorithms, and how to crack internships early.<br><br>🌱 I’m currently learning  <br>C/C++, Python, Git, and Web Development basics.<br><br>💬 Ask me about  <br>LPU life, starting college in tech, and tips for balancing studies and personal growth.<br><br>⚡ Fun fact  <br>I can write romantic bedtime stories and debug code—sometimes at the same time!
 
