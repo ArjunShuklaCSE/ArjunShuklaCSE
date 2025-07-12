@@ -1,39 +1,60 @@
-<!-- Profile Header GIF -->
+<!-- ✨ Header Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Arjun+Shukla;B.Tech+CSE+%40+LPU+%F0%9F%92%BB;Coding+My+Dreams+Into+Reality+%F0%9F%92%A1;Full+Stack+%7C+ML+%7C+Tech+Enthusiast" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm Arjun</h1>
-<h3 align="center">🚀 First-year B.Tech CSE student at Lovely Professional University</h3>
-
+<!-- 🌌 Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Learning+to+build+cool+stuff!;Tech+enthusiast+%F0%9F%9A%80;Dreaming+Big%2C+Coding+Hard."/>
-</p>
-
----
-
-### 🧠 About Me
-- 🌱 I’m currently learning **Full Stack Web Development**, **DSA**, and **Machine Learning**  
-- 🎯 Goal: Become a **Software Developer** & build impactful projects  
-- 💻 I love working on side projects and exploring new technologies  
-- 📚 Student at **LPU | B.Tech CSE** (2025–2029)  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/)** | **[Email](mailto:arjunshuklacse@gmail.com)**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,c,cpp,mongodb,mysql,git,github,linux" />
+  <img src="https://github.com/ArjunShuklaCSE/ArjunShuklaCSE/assets/yourbanner" alt="banner" />
 </p>
 
 ---
 
-### 🔥 My GitHub Stats
+<h2 align="center">✨ Welcome to my world of code & creativity ✨</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" height="120"/>
+</div>
+
+---
+
+### 📘 About Me  
+```yaml
+name: Arjun Shukla
+status: 💻 B.Tech CSE Student @ LPU (2025–29)
+code_style: Clean ⚡ Minimalist ⚡ Functional
+goal: To become a world-class software developer 🌍
+currently_learning: ["Full Stack Web Dev", "DSA", "Machine Learning"]
+hobbies: ["Gaming 🎮", "Design 🎨", "Storytelling ✍️", "Tech Videos 💡"]
+fun_fact: "I use dark mode in real life 😎"
+```
+
+---
+
+### 🛠️ Tech Stack I Love
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,python,java,cpp,c,mysql,mongodb,git,github,linux" />
+</div>
+
+---
+
+### 🧪 Tools I Use Often
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArjunShuklaCSE&show_icons=true&theme=tokyonight&count_private=true&hide=stars"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunShuklaCSE&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArjunShuklaCSE&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunShuklaCSE&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -41,44 +62,60 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArjunShuklaCSE&theme=gruvbox&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArjunShuklaCSE&theme=radical&row=2&column=4&margin-w=10&margin-h=10"/>
 </p>
 
 ---
 
-### 📈 Contribution Streak
+### 📈 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArjunShuklaCSE&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunShuklaCSE&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-### 🎨 Aesthetic Vibes Only
+### 🐍 Snake Eating My Contributions (GitHub Actions)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="480" />
+  <img src="https://github.com/ArjunShuklaCSE/ArjunShuklaCSE/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 🧩 Fun Fact
-> “Coding is the closest thing we have to magic.”
-
----
-
-### 🌐 Let's Connect
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ArjunShuklaCSE"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ArjunShuklaOfficial"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:arjunshuklacse@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ArjunShuklaCSE">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ArjunShuklaOfficial">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:arjunshuklacse@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<!-- Snake Game Contribution Graph -->
+### 🎯 Currently Working On
+
+- 🔭 Building projects using MERN Stack  
+- 🧠 Mastering Data Structures and Algorithms  
+- 💼 Preparing for internships & freelance gigs  
+- 🌟 Side Quest: Making my GitHub look better than my résumé 😉
+
+---
+
 <p align="center">
-  <img src="https://github.com/ArjunShuklaCSE/ArjunShuklaCSE/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="100"/>
+  <br><br>
+  <b>“Let's turn caffeine ☕ into code 💻”</b>
+</div>
