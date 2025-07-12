@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Arjun Shukla
+# 💫 Hi 👋🏻, I'm Arjun Shukla
 **A passionate Computer Science Student || Aspiring Software Engineer || Tech Enthusiast from India**
 
-Email Me 👉 ✉️ **arjunshuklacse@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉🏻 ✉️ **arjunshuklacse@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Exploring the fundamentals of programming
 - 🌱 **I’m currently learning:** C/C++, Python, Git, and Web Development basics
