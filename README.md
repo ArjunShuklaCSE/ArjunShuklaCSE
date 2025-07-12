@@ -20,13 +20,13 @@
 
 ### 📘 About Me  
 ```yaml
-name: Arjun Shukla
-status: 💻 B.Tech CSE Student @ LPU (2025–29)
-code_style: Clean ⚡ Minimalist ⚡ Functional
-goal: To become a world-class software developer 🌍
-currently_learning: ["Full Stack Web Dev", "DSA", "Machine Learning"]
-hobbies: ["Gaming 🎮", "Design 🎨", "Storytelling ✍️", "Tech Videos 💡"]
-fun_fact: "I use dark mode in real life 😎"
+Name: Arjun Shukla
+Status: 💻 B.Tech CSE Student @ LPU (2025–29)
+Code_style: Clean ⚡ Minimalist ⚡ Functional
+Goal: To become a world-class software developer 🌍
+Currently_learning: ["Full Stack Web Dev", "DSA", "Machine Learning"]
+Hobbies: ["Gaming 🎮", "Design 🎨", "Storytelling ✍️", "Tech Videos 💡"]
+Fun_fact: "I use dark mode in real life 😎"
 ```
 
 ---
