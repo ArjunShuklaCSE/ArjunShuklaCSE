@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Arjun Shukla
+# 💫 Hi 👋🏻, I'm Arjun Shukla
 **A passionate Computer Science Student || Aspiring Software Engineer || Tech Enthusiast from India**
 
 Email Me 👉 ✉️ **arjunshuklacse@gmail.com** For Collaboration/Project or Anything Else. 😊😊
