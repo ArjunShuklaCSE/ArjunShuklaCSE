@@ -7,7 +7,7 @@
 <h3 align="center">🚀 B.Tech CSE Student @ LPU | Developer | Dreamer | Doer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Coffee+Into+Code+☕💻;Building+Dreams+with+Tech+💡;MERN+%7C+Python+%7C+ML+%7C+CSE+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Coffee+Into+Code+☕%F0%9F%92%BB;Building+Dreams+with+Tech+&#128176;MERN+%7C+Python+%7C+ML+%7C+CSE+Student" />
 </p>
 
 ---
