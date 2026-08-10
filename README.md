@@ -8,7 +8,7 @@
 
 # Arjun Shukla
 
-<sub>SOFTWARE ENGINEER · AI/ML ENGINEER · AI TRAINER</sub>
+<sub>COMPUTER SCIENCE STUDENT · DEVELOPER · BUILDER</sub>
 
 <br>
 
@@ -38,7 +38,7 @@
 
 <div>
 
-> A Computer Science student at **Amrita Vishwa Vidyapeetham**, working toward roles across **software engineering, AI/ML engineering, and AI training**. Grounded in full-stack development and data structures & algorithms, with a growing focus on machine learning systems, model behavior, and the infrastructure that connects them. Drawn to emerging technology — not just using it, but understanding how it works underneath. I build to learn, and learn by building.
+> A Computer Science student at **Amrita Vishwa Vidyapeetham**, focused on software development with a growing interest in **AI/ML, systems programming, and cybersecurity**. Currently deep in full-stack web development and data structures & algorithms, drawn to emerging technology — not just using it, but understanding how it works underneath. I build to learn, and learn by building.
 
 </div>
 
@@ -154,10 +154,10 @@ A license management and validation system for software, apps, and services, bui
 ## `// CURRENTLY BUILDING`
 
 ```
-→ Building full-stack & AI-powered applications
+→ Building projects with the MERN stack
 → Mastering data structures & algorithms
-→ Deepening ML/AI engineering fundamentals
-→ Preparing for SWE, AI/ML engineering & AI training roles
+→ Preparing for internships & freelance work
+→ Exploring AI/ML and cybersecurity
 ```
 
 <br>
