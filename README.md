@@ -1,121 +1,179 @@
-<!-- ✨ Header Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Arjun+Shukla;B.Tech+CSE+%40+LPU+%F0%9F%92%BB;Coding+My+Dreams+Into+Reality+%F0%9F%92%A1;Full+Stack+%7C+ML+%7C+Tech+Enthusiast" />
-</p>
-
-<!-- 🌌 Hero Banner -->
-<p align="center">
-  <img src="assets/banner-img.png" alt="banner" width="900" />
-</p>
-
----
-
-<h2 align="center">✨ Welcome to my world of code & creativity ✨</h2>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" height="120"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2&section=header" width="100%"/>
+
+<br><br>
+
+# Arjun Shukla
+
+<sub>COMPUTER SCIENCE STUDENT · DEVELOPER · BUILDER</sub>
+
+<br>
+
+**Amrita Vishwa Vidyapeetham** · B.Tech CSE (2025–29)
+
+<br>
+
+<i>Building things at the intersection of code, systems, and ideas.</i>
+
+<br><br>
+
+<a href="https://github.com/ArjunShuklaCSE"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a0a0a" height="28"/></a>
+<a href="https://linkedin.com/in/ArjunShuklaOfficial"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0a0a0a" height="28"/></a>
+<a href="mailto:arjunshuklacse@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0a0a0a" height="28"/></a>
+<a href="https://[YOUR-PORTFOLIO].com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0a0a0a" height="28"/></a>
+<a href="https://[YOUR-RESUME-LINK]"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=ffffff&labelColor=0a0a0a" height="28"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2&section=header" width="100%"/>
+
 </div>
 
----
+<br>
 
-### 📘 About Me  
-```yaml
-Name: Arjun Shukla
-Status: 💻 B.Tech CSE Student @ LPU (2025–29)
-Code_style: Clean ⚡ Minimalist ⚡ Functional
-Goal: To become a world-class software developer 🌍
-Currently_learning: ["Full Stack Web Dev", "DSA", "Machine Learning"]
-Hobbies: ["Gaming 🎮", "Design 🎨", "Storytelling ✍️", "Tech Videos 💡"]
-Fun_fact: "I use dark mode in real life 😎"
+## `// ABOUT`
+
+<div>
+
+> A Computer Science student at **Amrita Vishwa Vidyapeetham**, focused on software development with a growing interest in **AI/ML, systems programming, and cybersecurity**. Currently deep in full-stack web development and data structures & algorithms, drawn to emerging technology — not just using it, but understanding how it works underneath. I build to learn, and learn by building.
+
+</div>
+
+<br>
+
+## `// TECHNOLOGY`
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+**Languages**
+
+`Python`
+`C`
+`C++`
+`Java`
+`JavaScript`
+`TypeScript`
+
+</td>
+<td width="25%" valign="top">
+
+**Development**
+
+`React`
+`Next.js`
+`Node.js`
+`Tailwind`
+`HTML`
+`CSS`
+`Git`
+
+</td>
+<td width="25%" valign="top">
+
+**Data / AI**
+
+`Python`
+`Machine Learning`
+`MySQL`
+`MongoDB`
+`APIs`
+
+</td>
+<td width="25%" valign="top">
+
+**Tools**
+
+`Git`
+`GitHub`
+`Linux`
+`VS Code`
+`Figma`
+`Postman`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `// SELECTED WORK`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Project 01 — Phantom Overlay
+<sub>`STATUS: ACTIVE`</sub>
+
+A high-performance transparent overlay browser built on C++ and CEF, with integrated AI capabilities.
+
+`Stack: C++, CEF`
+
+[`Repository →`](https://github.com/ArjunShuklaCSE/phantom-overlay)
+
+</td>
+<td width="50%" valign="top">
+
+### Project 02 — BatxAuth
+<sub>`STATUS: EXPERIMENTAL`</sub>
+
+A license management and validation system for software, apps, and services, built on Next.js.
+
+`Stack: Next.js, TypeScript`
+
+[`Repository →`](https://github.com/ArjunShuklaCSE/BatxAuth)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `// SYSTEM ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArjunShuklaCSE&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&icon_color=8b8bff&text_color=b0b0b0&hide_title=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunShuklaCSE&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=b0b0b0&langs_count=8" width="42%"/>
+
+<img src="https://streak-stats.demolab.com/?user=ArjunShuklaCSE&hide_border=true&background=00000000&stroke=1a1a1a&ring=8b8bff&fire=8b8bff&currStreakLabel=ffffff&sideLabels=b0b0b0&currStreakNum=ffffff&sideNums=b0b0b0&dates=555555" width="65%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunShuklaCSE&theme=github-compact&bg_color=00000000&color=8b8bff&line=8b8bff&point=ffffff&area=true&area_color=8b8bff&hide_border=true&hide_title=true" width="90%"/>
+
+</div>
+
+<br>
+
+## `// CURRENTLY BUILDING`
+
+```
+→ Building projects with the MERN stack
+→ Mastering data structures & algorithms
+→ Preparing for internships & freelance work
+→ Exploring AI/ML and cybersecurity
 ```
 
----
-
-### 🛠️ Tech Stack I Love
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,python,java,cpp,c,mysql,mongodb,git,github,linux" />
-</div>
 
----
+<sub><i>"Build quietly. Learn relentlessly. Ship intelligently."</i></sub>
 
-### 🧪 Tools I Use Often
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=1&section=header" width="60%"/>
 
----
+<br><br>
 
-### 🚀 My GitHub Stats
+<sub>● `SYSTEM STATUS: ONLINE`</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArjunShuklaCSE&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunShuklaCSE&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
+<sub>© 2026 Arjun Shukla</sub>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArjunShuklaCSE&theme=radical&row=2&column=4&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-### 📈 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunShuklaCSE&theme=radical&hide_border=true"/>
-</p>
-
----
-
-### 🐍 Snake Eating My Contributions (GitHub Actions)
-
-<p align="center">
-  <img src="https://github.com/platane/snk/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ArjunShuklaCSE">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/ArjunShuklaOfficial">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:arjunshuklacse@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🎯 Currently Working On
-
-- 🔭 Building projects using MERN Stack  
-- 🧠 Mastering Data Structures and Algorithms  
-- 💼 Preparing for internships & freelance gigs  
-- 🌟 Side Quest: Making my GitHub look better than my résumé 😉
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="100"/>
-  <br><br>
-  <b>“Let's turn caffeine ☕ into code 💻”</b>
 </div>
