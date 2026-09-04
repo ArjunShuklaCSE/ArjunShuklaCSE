@@ -12,7 +12,7 @@
 
 <br>
 
-**Amrita Vishwa Vidyapeetham** · B.Tech CSE (2026–2030)
+**UPES - Dehradun** · B.Tech CSE (2026–2030)
 
 <br>
 
@@ -38,7 +38,7 @@
 
 <div>
 
-> A Computer Science student at **Amrita Vishwa Vidyapeetham**, focused on software development with a growing interest in **AI/ML, systems programming, and cybersecurity**. Currently deep in full-stack web development and data structures & algorithms, drawn to emerging technology — not just using it, but understanding how it works underneath. I build to learn, and learn by building.
+> A Computer Science student at **UPES**, focused on software development with a growing interest in **AI/ML, systems programming, and cybersecurity**. Currently deep in full-stack web development and data structures & algorithms, drawn to emerging technology — not just using it, but understanding how it works underneath. I build to learn, and learn by building.
 
 </div>
 
