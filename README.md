@@ -1,66 +1,49 @@
-<div align="center">
+<p align="center">
+  <picture><source media="(max-width: 650px)" srcset="./assets/profile/hero-mobile.svg" /><img src="./assets/profile/hero.svg" width="100%" alt="Arjun Shukla — developer and computer science student at UPES, Dehradun. B.Tech CSE, 2026–2030." /></picture>
+</p>
 
-# Arjun Shukla
+<p align="center">
+  <a href="https://linkedin.com/in/ArjunShuklaOfficial"><img src="./assets/profile/linkedin.svg" width="150" alt="LinkedIn" /></a>
+  <a href="mailto:arjunshuklacse@gmail.com"><img src="./assets/profile/email.svg" width="150" alt="Email Arjun" /></a>
+  <a href="https://github.com/ArjunShuklaCSE?tab=repositories"><img src="./assets/profile/projects.svg" width="150" alt="Browse public projects" /></a>
+</p>
 
-**Computer science student · Developer · Builder**
+<br>
 
-UPES, Dehradun · B.Tech CSE · 2026–2030
+### A little about me
 
-Building web applications, desktop tools, and a deeper understanding of the systems behind them.
+I'm a computer science student at **UPES**, building web applications and desktop tools. I like understanding how things work beneath the interface—from application logic to the systems that run it.
 
-[Projects](#selected-work) · [LinkedIn](https://linkedin.com/in/ArjunShuklaOfficial) · [Email](mailto:arjunshuklacse@gmail.com)
+Currently working with the **MERN stack**, practicing **data structures & algorithms**, and exploring **AI/ML and cybersecurity**.
 
-</div>
+<br>
 
----
+### Selected work
 
-## About me
+<a href="https://github.com/ArjunShuklaCSE/BattyFlow">
+  <picture><source media="(max-width: 650px)" srcset="./assets/profile/battyflow-mobile.svg" /><img src="./assets/profile/battyflow.svg" width="100%" alt="BattyFlow — local desktop dictation with Whisper, developer vocabulary, and a recording overlay. Public Windows preview." /></picture>
+</a>
 
-I'm a computer science student at UPES, learning through hands-on projects in web development and desktop software. My interests include systems programming, AI/ML, and cybersecurity.
+[Explore the source ↗](https://github.com/ArjunShuklaCSE/BattyFlow) &nbsp; · &nbsp; [Download the Windows preview ↗](https://github.com/ArjunShuklaCSE/BattyFlow/releases/tag/v0.1.0-preview)
 
-Right now, I'm building with the MERN stack, practicing data structures and algorithms, and preparing for internships and freelance work.
+<p>
+  <picture><source media="(max-width: 650px)" srcset="./assets/profile/projects-mobile.svg" /><img src="./assets/profile/projects.svg" width="100%" alt="Phantom Overlay: a transparent C++ and CEF browser with AI capabilities. BatxAuth: license management and validation with Next.js and TypeScript. Both repositories are private." /></picture>
+</p>
 
-## Selected work
+<br>
 
-### [BattyFlow](https://github.com/ArjunShuklaCSE/BattyFlow)
+### My toolkit
 
-Local desktop dictation for developers, with Whisper speech recognition, developer vocabulary, and a recording overlay. The Windows preview processes speech locally and provides a transcript to review and copy.
+<picture><source media="(max-width: 650px)" srcset="./assets/profile/stack-mobile.svg" /><img src="./assets/profile/stack.svg" width="100%" alt="Web: React, Next.js, Node.js, Tailwind CSS, HTML and CSS. Languages: TypeScript, JavaScript, Python, C, C++ and Java. Data and tools: MySQL, MongoDB, Git, Linux, Figma and Postman." /></picture>
 
-`TypeScript` `Electron` `Whisper` · **Public · Windows preview**
+<br>
 
-[Source code](https://github.com/ArjunShuklaCSE/BattyFlow) · [Windows download](https://github.com/ArjunShuklaCSE/BattyFlow/releases/tag/v0.1.0-preview)
+### What's next
 
-### Phantom Overlay
+More desktop experiments, better full-stack applications, and stronger fundamentals. I'm preparing for **internships and freelance work** as I keep building.
 
-A transparent desktop overlay browser built with C++ and CEF, with integrated AI capabilities.
+Have a project in mind? [Let's talk ↗](mailto:arjunshuklacse@gmail.com)
 
-`C++` `CEF` · **Private repository**
+<br>
 
-### BatxAuth
-
-A license management and validation system for software, apps, and services, built with Next.js.
-
-`Next.js` `TypeScript` · **Private repository**
-
-[Browse my public repositories →](https://github.com/ArjunShuklaCSE?tab=repositories)
-
-## Technologies
-
-| Area | Technologies |
-| --- | --- |
-| Languages | Python, C, C++, Java, JavaScript, TypeScript |
-| Web development | React, Next.js, Node.js, Tailwind CSS, HTML, CSS |
-| Data | MySQL, MongoDB, APIs |
-| Tools | Git, GitHub, Linux, VS Code, Figma, Postman |
-
-**Currently exploring:** machine learning, systems programming, and cybersecurity.
-
-## Get in touch
-
-Find me on [LinkedIn](https://linkedin.com/in/ArjunShuklaOfficial) or email [arjunshuklacse@gmail.com](mailto:arjunshuklacse@gmail.com).
-
----
-
-<div align="center">
-<sub>Build quietly. Learn relentlessly. Ship intelligently.</sub>
-</div>
+<img src="./assets/profile/footer.svg" width="100%" alt="Build quietly. Learn relentlessly. Ship intelligently." />
