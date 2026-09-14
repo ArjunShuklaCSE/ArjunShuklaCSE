@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ArjunShuklaOfficial"><img src="./assets/profile/linkedin.svg" width="150" alt="LinkedIn" /></a>
   <a href="mailto:arjunshuklacse@gmail.com"><img src="./assets/profile/email.svg" width="150" alt="Email Arjun" /></a>
-  <a href="https://github.com/ArjunShuklaCSE?tab=repositories"><img src="./assets/profile/projects.svg" width="150" alt="Browse public projects" /></a>
+  <a href="https://github.com/ArjunShuklaCSE?tab=repositories"><img src="./assets/profile/projects-link.svg" width="150" alt="Browse public projects" /></a>
 </p>
 
 <br>
