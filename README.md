@@ -46,4 +46,4 @@ Have a project in mind? [Let's talk ↗](mailto:arjunshuklacse@gmail.com)
 
 <br>
 
-<img src="./assets/profile/footer.svg" width="100%" alt="Build quietly. Learn relentlessly. Ship intelligently." />
+<picture><source media="(max-width: 650px)" srcset="./assets/profile/footer-mobile.svg" /><img src="./assets/profile/footer.svg" width="100%" alt="Build quietly. Learn relentlessly. Ship intelligently." /></picture>
