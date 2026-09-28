@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="DevAgent — an AI coding agent that reproduces a bug, fixes it in a sandbox, and opens a draft PR only after human approval. Python, FastAPI, Next.js, Docker."><title>DevAgent — an AI coding agent that reproduces a bug, fixes it in a sandbox, and opens a draft PR only after human approval. Python, FastAPI, Next.js, Docker.</title><g font-family="Segoe UI, Arial, sans-serif"><rect x="1" y="1" width="1198" height="268" rx="22" fill="#0d0f17" stroke="#292d40" stroke-width="2"/>
+<rect x="33" y="35" width="5" height="200" rx="2" fill="#a78bfa"/>
+<text x="64" y="60" font-size="16" fill="#a78bfa" font-weight="600" letter-spacing="2.2">01 / FEATURED PROJECT</text>
+<rect x="933" y="32" width="228" height="35" rx="17" fill="#21312d"/><text x="958" y="56" font-size="14" fill="#8fddc5" font-weight="600">PUBLIC · OPEN SOURCE</text>
+<text x="61" y="125" font-size="53" fill="#f0eef8" font-weight="650" letter-spacing="-1.5">DevAgent</text>
+<text x="64" y="170" font-size="25" fill="#a6abc1" font-weight="400">Reproduce the bug. Fix it in a sandbox. Ship on approval.</text>
+<text x="64" y="219" font-size="17" fill="#a78bfa" font-weight="500" letter-spacing="1">PYTHON   /   FASTAPI   /   NEXT.JS   /   DOCKER</text>
+<path d="M944 145H1081" stroke="#292d40" stroke-width="4"/><circle cx="930" cy="145" r="14" fill="#0d0f17" stroke="#a78bfa" stroke-width="4"/><circle cx="985" cy="145" r="14" fill="#0d0f17" stroke="#a78bfa" stroke-width="4"/><circle cx="1040" cy="145" r="14" fill="#0d0f17" stroke="#a78bfa" stroke-width="4"/><circle cx="1095" cy="145" r="14" fill="#21312d" stroke="#8fddc5" stroke-width="4"/><path d="M1088 145l5 6 9-12" stroke="#8fddc5" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="1127" y="233" font-size="36" fill="#8fddc5" font-weight="400">↗</text>
+</g></svg>
