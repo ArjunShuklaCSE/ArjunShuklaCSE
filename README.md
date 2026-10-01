@@ -34,6 +34,14 @@ Currently working with the **MERN stack**, practicing **data structures & algori
 
 [Explore the source ↗](https://github.com/ArjunShuklaCSE/BattyFlow) &nbsp; · &nbsp; [Download the Windows preview ↗](https://github.com/ArjunShuklaCSE/BattyFlow/releases/tag/v0.1.0-preview)
 
+<br>
+
+<a href="https://github.com/ArjunShuklaCSE/fomc-rag">
+  <picture><source media="(max-width: 650px)" srcset="./assets/profile/fomc-rag-mobile.svg" /><img src="./assets/profile/fomc-rag.svg" width="100%" alt="fomc-rag — question answering over 293 Federal Reserve documents with page-linked citations. Every retrieval choice measured; Recall@10 rises from 0.14 to 0.85 on held-out questions. Python, PyTorch, FastAPI, Docker." /></picture>
+</a>
+
+[Explore the source ↗](https://github.com/ArjunShuklaCSE/fomc-rag) &nbsp; · &nbsp; Hybrid retrieval, reranking, and date filters tested against a 151-question gold set with paired bootstrap CIs, including the gains that failed to replicate.
+
 <p>
   <picture><source media="(max-width: 650px)" srcset="./assets/profile/projects-mobile.svg" /><img src="./assets/profile/projects.svg" width="100%" alt="BatxAuth: a self-hostable licensing platform with Next.js, TypeScript and PostgreSQL (private; demo on request). BatxRinth: a privacy-first, ad-free Minecraft launcher built with Rust, Tauri and Vue (public community fork)." /></picture>
 </p>
