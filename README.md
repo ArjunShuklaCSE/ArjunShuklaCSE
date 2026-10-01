@@ -29,10 +29,10 @@ Currently working with the **MERN stack**, practicing **data structures & algori
 <br>
 
 <a href="https://github.com/ArjunShuklaCSE/BattyFlow">
-  <picture><source media="(max-width: 650px)" srcset="./assets/profile/battyflow-mobile.svg" /><img src="./assets/profile/battyflow.svg" width="100%" alt="BattyFlow — local desktop dictation with Whisper, developer vocabulary, and a recording overlay. Public Windows preview." /></picture>
+  <picture><source media="(max-width: 650px)" srcset="./assets/profile/battyflow-mobile.svg" /><img src="./assets/profile/battyflow.svg" width="100%" alt="BattyFlow — offline push-to-talk dictation for Windows. Hold Ctrl+Win, talk, and the text is pasted where your cursor is. TypeScript, Electron, C#, whisper.cpp." /></picture>
 </a>
 
-[Explore the source ↗](https://github.com/ArjunShuklaCSE/BattyFlow) &nbsp; · &nbsp; [Download the Windows preview ↗](https://github.com/ArjunShuklaCSE/BattyFlow/releases/tag/v0.1.0-preview)
+[Explore the source ↗](https://github.com/ArjunShuklaCSE/BattyFlow) &nbsp; · &nbsp; [Download for Windows ↗](https://github.com/ArjunShuklaCSE/BattyFlow/releases/latest) &nbsp; · &nbsp; Text in 0.42 s on a laptop CPU; vocabulary steering took exact technical terms from 8 to 14 of 18.
 
 <br>
 
