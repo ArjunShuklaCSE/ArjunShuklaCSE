@@ -42,6 +42,14 @@ Currently working with the **MERN stack**, practicing **data structures & algori
 
 [Explore the source ↗](https://github.com/ArjunShuklaCSE/fomc-rag) &nbsp; · &nbsp; Hybrid retrieval, reranking, and date filters tested against a 151-question gold set with paired bootstrap CIs, including the gains that failed to replicate.
 
+<br>
+
+<a href="https://github.com/ArjunShuklaCSE/evalsig">
+  <picture><source media="(max-width: 650px)" srcset="./assets/profile/evalsig-mobile.svg" /><img src="./assets/profile/evalsig.svg" width="100%" alt="evalsig — tells you whether a change to an AI system is really better, worse, or within noise, with paired confidence intervals, permutation tests and the smallest change a test set can detect. Python, NumPy, SciPy, GitHub Actions." /></picture>
+</a>
+
+[Explore the source ↗](https://github.com/ArjunShuklaCSE/evalsig) &nbsp; · &nbsp; A CLI, Python API and GitHub Action, checked by simulation: the 95% interval covers 95.8% of the time when there is no real difference.
+
 <p>
   <picture><source media="(max-width: 650px)" srcset="./assets/profile/projects-mobile.svg" /><img src="./assets/profile/projects.svg" width="100%" alt="BatxAuth: a self-hostable licensing platform with Next.js, TypeScript and PostgreSQL (private; demo on request). BatxRinth: a privacy-first, ad-free Minecraft launcher built with Rust, Tauri and Vue (public community fork)." /></picture>
 </p>

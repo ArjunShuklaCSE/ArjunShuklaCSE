@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="evalsig — tells you whether a change to an AI system is really better, worse, or within noise, with paired confidence intervals, permutation tests and the smallest change a test set can detect. Python, NumPy, SciPy, GitHub Actions."><title>evalsig — tells you whether a change to an AI system is really better, worse, or within noise, with paired confidence intervals, permutation tests and the smallest change a test set can detect. Python, NumPy, SciPy, GitHub Actions.</title><g font-family="Segoe UI, Arial, sans-serif"><rect x="1" y="1" width="1198" height="268" rx="22" fill="#0d0f17" stroke="#292d40" stroke-width="2"/>
+<rect x="33" y="35" width="5" height="200" rx="2" fill="#a78bfa"/>
+<text x="64" y="60" font-size="16" fill="#a78bfa" font-weight="600" letter-spacing="2.2">04 / FEATURED PROJECT</text>
+<rect x="933" y="32" width="228" height="35" rx="17" fill="#21312d"/><text x="958" y="56" font-size="14" fill="#8fddc5" font-weight="600">PUBLIC · OPEN SOURCE</text>
+<text x="61" y="125" font-size="53" fill="#f0eef8" font-weight="650" letter-spacing="-1.5">evalsig</text>
+<text x="64" y="170" font-size="25" fill="#a6abc1" font-weight="400">Better, worse, or just luck? A verdict for every eval change.</text>
+<text x="64" y="219" font-size="17" fill="#a78bfa" font-weight="500" letter-spacing="1">PYTHON   /   NUMPY   /   SCIPY   /   GITHUB ACTIONS</text>
+<path d="M1000 96V204" stroke="#292d40" stroke-width="4"/>
+<g stroke-width="6" stroke-linecap="round"><path stroke="#a78bfa" d="M955 178H1050 M968 144H1046"/><path stroke="#8fddc5" d="M1022 110H1098"/></g>
+<g stroke-width="4" fill="#0d0f17"><circle cx="1002" cy="178" r="9" stroke="#a78bfa"/><circle cx="1007" cy="144" r="9" stroke="#a78bfa"/><circle cx="1060" cy="110" r="9" stroke="#8fddc5"/></g>
+<text x="1127" y="233" font-size="36" fill="#8fddc5" font-weight="400">↗</text>
+</g></svg>
