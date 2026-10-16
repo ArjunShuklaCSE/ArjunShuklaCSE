@@ -1,75 +1,19 @@
-<p align="center">
-  <picture><source media="(max-width: 650px)" srcset="./assets/profile/hero-mobile.svg" /><img src="./assets/profile/hero.svg" width="100%" alt="Arjun Shukla — developer and computer science student at UPES, Dehradun. B.Tech CSE, 2026–2030." /></picture>
-</p>
+Hi, I'm Arjun. I'm in my first year of B.Tech CSE at UPES in Dehradun. Lately I've been building AI agents, RAG systems and a couple of Windows desktop apps.
 
-<p align="center">
-  <a href="https://linkedin.com/in/ArjunShuklaOfficial"><img src="./assets/profile/linkedin.svg" width="150" alt="LinkedIn" /></a>
-  <a href="mailto:arjunshuklacse@gmail.com"><img src="./assets/profile/email.svg" width="150" alt="Email Arjun" /></a>
-  <a href="https://github.com/ArjunShuklaCSE?tab=repositories"><img src="./assets/profile/projects-link.svg" width="150" alt="Browse public projects" /></a>
-</p>
+### Projects
 
-<br>
+- [DevAgent](https://github.com/ArjunShuklaCSE/DevAgent) takes a GitHub issue, writes a failing test that reproduces it, fixes the bug in a Docker sandbox with no network access, and opens a draft PR once a person approves it. Python, FastAPI, Next.js.
+- [BattyFlow](https://github.com/ArjunShuklaCSE/BattyFlow) is offline push-to-talk dictation for Windows. Hold Ctrl+Win, talk, and the text is pasted where your cursor is. It runs whisper.cpp locally and returns text in 0.42 s on a laptop CPU. ([download](https://github.com/ArjunShuklaCSE/BattyFlow/releases/latest))
+- [fomc-rag](https://github.com/ArjunShuklaCSE/fomc-rag) answers questions over 293 Federal Reserve documents and links each answer to the page it came from. I tested every retrieval change against a hand-built set of 151 questions. Recall@10 on held-out questions went from 0.14 to 0.85.
+- [evalsig](https://github.com/ArjunShuklaCSE/evalsig) tells you whether a change to an AI system actually helped, or whether the eval difference is just luck. CLI, Python API and GitHub Action.
+- [100-days-of-code-c](https://github.com/ArjunShuklaCSE/100-days-of-code-c) has my solutions to the UPES 100-day C challenge. CI checks each one against its sample cases.
+- BatxAuth is self-hosted license management for apps (Next.js, PostgreSQL). It's private, but I'm happy to show it on a call.
+- [BatxRinth](https://github.com/BatxRinth/BatxRinth) is an ad-free, privacy-focused Minecraft launcher (community fork). Rust, Tauri, Vue.
 
-### A little about me
+### Stack
 
-I'm a computer science student at **UPES**, building web applications and desktop tools. I like understanding how things work beneath the interface—from application logic to the systems that run it.
+Mostly TypeScript and Python, plus C, C++ and Java. React, Next.js, Node, FastAPI, Tailwind, PostgreSQL, MongoDB, MySQL, Docker, Figma.
 
-Currently working with the **MERN stack**, practicing **data structures & algorithms**, and exploring **AI/ML and cybersecurity**.
+### Contact
 
-<br>
-
-### Selected work
-
-<a href="https://github.com/ArjunShuklaCSE/DevAgent">
-  <picture><source media="(max-width: 650px)" srcset="./assets/profile/devagent-mobile.svg" /><img src="./assets/profile/devagent.svg" width="100%" alt="DevAgent — an AI coding agent that reproduces a bug, fixes it in a sandbox, and opens a draft PR only after human approval. Python, FastAPI, Next.js, Docker." /></picture>
-</a>
-
-[Explore the source ↗](https://github.com/ArjunShuklaCSE/DevAgent) &nbsp; · &nbsp; Sandboxed execution, budgets, prompt-injection defences, and an evaluation harness with failure taxonomy and Wilson intervals.
-
-<br>
-
-<a href="https://github.com/ArjunShuklaCSE/BattyFlow">
-  <picture><source media="(max-width: 650px)" srcset="./assets/profile/battyflow-mobile.svg" /><img src="./assets/profile/battyflow.svg" width="100%" alt="BattyFlow — offline push-to-talk dictation for Windows. Hold Ctrl+Win, talk, and the text is pasted where your cursor is. TypeScript, Electron, C#, whisper.cpp." /></picture>
-</a>
-
-[Explore the source ↗](https://github.com/ArjunShuklaCSE/BattyFlow) &nbsp; · &nbsp; [Download for Windows ↗](https://github.com/ArjunShuklaCSE/BattyFlow/releases/latest) &nbsp; · &nbsp; Text in 0.42 s on a laptop CPU; vocabulary steering took exact technical terms from 8 to 14 of 18.
-
-<br>
-
-<a href="https://github.com/ArjunShuklaCSE/fomc-rag">
-  <picture><source media="(max-width: 650px)" srcset="./assets/profile/fomc-rag-mobile.svg" /><img src="./assets/profile/fomc-rag.svg" width="100%" alt="fomc-rag — question answering over 293 Federal Reserve documents with page-linked citations. Every retrieval choice measured; Recall@10 rises from 0.14 to 0.85 on held-out questions. Python, PyTorch, FastAPI, Docker." /></picture>
-</a>
-
-[Explore the source ↗](https://github.com/ArjunShuklaCSE/fomc-rag) &nbsp; · &nbsp; Hybrid retrieval, reranking, and date filters tested against a 151-question gold set with paired bootstrap CIs, including the gains that failed to replicate.
-
-<br>
-
-<a href="https://github.com/ArjunShuklaCSE/evalsig">
-  <picture><source media="(max-width: 650px)" srcset="./assets/profile/evalsig-mobile.svg" /><img src="./assets/profile/evalsig.svg" width="100%" alt="evalsig — tells you whether a change to an AI system is really better, worse, or within noise, with paired confidence intervals, permutation tests and the smallest change a test set can detect. Python, NumPy, SciPy, GitHub Actions." /></picture>
-</a>
-
-[Explore the source ↗](https://github.com/ArjunShuklaCSE/evalsig) &nbsp; · &nbsp; A CLI, Python API and GitHub Action, checked by simulation: the 95% interval covers 95.8% of the time when there is no real difference.
-
-<p>
-  <picture><source media="(max-width: 650px)" srcset="./assets/profile/projects-mobile.svg" /><img src="./assets/profile/projects.svg" width="100%" alt="BatxAuth: a self-hostable licensing platform with Next.js, TypeScript and PostgreSQL (private; demo on request). BatxRinth: a privacy-first, ad-free Minecraft launcher built with Rust, Tauri and Vue (public community fork)." /></picture>
-</p>
-
-BatxAuth is private. I'm happy to walk through it on a call. &nbsp; · &nbsp; [BatxRinth source ↗](https://github.com/BatxRinth/BatxRinth)
-
-<br>
-
-### My toolkit
-
-<picture><source media="(max-width: 650px)" srcset="./assets/profile/stack-mobile.svg" /><img src="./assets/profile/stack.svg" width="100%" alt="Web: React, Next.js, Node.js, FastAPI, Tailwind CSS, HTML and CSS. Languages: TypeScript, JavaScript, Python, C, C++ and Java. Data and tools: PostgreSQL, MongoDB, MySQL, Docker, Git, Linux and Figma." /></picture>
-
-<br>
-
-### Open for freelance work
-
-I take on **full-stack web apps** (React, Next.js, Node, FastAPI), **UI design in Figma** that I can also build, and **AI evaluation and training work** (Python, testing, careful review). I'm also preparing for internships.
-
-Have a project in mind? [Let's talk ↗](mailto:arjunshuklacse@gmail.com)
-
-<br>
-
-<picture><source media="(max-width: 650px)" srcset="./assets/profile/footer-mobile.svg" /><img src="./assets/profile/footer.svg" width="100%" alt="Build quietly. Learn relentlessly. Ship intelligently." /></picture>
+I'm looking for internships and I take freelance work: web apps, Figma designs I then build, and AI evaluation work. Email me at arjunshuklacse@gmail.com or find me on [LinkedIn](https://linkedin.com/in/ArjunShuklaOfficial).
